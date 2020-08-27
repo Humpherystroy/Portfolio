@@ -1,0 +1,34 @@
+.name {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+.body {
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+}
+.pro {
+  text-align: center;
+  border: 1px solid black;
+  background-color: white;
+}
+.work {
+  text-align: center;
+  border: 1px solid black;
+  background-color: white;
+}
+.about {
+  text-align: center;
+  border: 1px solid black;
+  background-color: white;
+}
+ul,
+li {
+  text-align: left;
+}
+.life {
+  text-align: center;
+  border: 1px solid black;
+  background-color: white;
+}
